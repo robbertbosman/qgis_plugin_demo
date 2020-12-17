@@ -1,0 +1,1 @@
+cp -r save_attributes/ /home/t420/.local/share/QGIS/QGIS3/profiles/default/python/plugins/
